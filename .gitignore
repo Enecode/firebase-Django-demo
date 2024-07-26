@@ -164,6 +164,8 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+.authentication-with-django-firebase-adminsdk-p7nhj-3f944cd20f.json/
+authentication-with-django-firebase-adminsdk-p7nhj-3f944cd20f.json
 
 # Cython debug symbols
 cython_debug/
